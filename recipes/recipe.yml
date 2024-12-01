@@ -20,7 +20,7 @@ modules:
       install:
         - org.mozilla.firefox
         - org.mozilla.Thunderbird
-        - org.tenacityaudio.Tenacityt
+        - org.tenacityaudio.Tenacity
         - org.kde.kdenlive
         - io.mpv.Mpv
         - io.neovim.nvim
